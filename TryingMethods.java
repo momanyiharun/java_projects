@@ -5,7 +5,7 @@ public class TryingMethods {
     
     }   
 
-   String MainMethod(int day) {
+   String getDay(int day) {
     String dayOfTheWeek;
     switch (day) {
         case  1:
